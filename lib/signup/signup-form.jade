@@ -57,15 +57,15 @@
                 li: a(href='#{config.subPath}/help/privacy-policy', target='_blank')=t('help.pp.title')
     - if (config.facebookSignin)
       #auth-facebook-form
-        form(action="#{config.subPath}/auth/facebook", method="get", role="form")
+        form.form.small-container(action="#{config.subPath}/auth/facebook", method="get", role="form")
           button.btn.btn-block.btn-labeled.btn-default.btn-facebook(type="submit", tabindex=tabindex++)
-            span.btn-label.pull-left: i.fa.fa-facebook
+            span.btn-label.pull-left: i.fa.fa-fw.fa-facebook
             span= t('signin.login-with-facebook')
     - if (config.googleSignin)
       #auth-google-form
-        form(action="#{config.subPath}/auth/google", method="get", role="form")
+        form.form.small-container(action="#{config.subPath}/auth/google", method="get", role="form")
           button.btn.btn-block.btn-labeled.btn-default.btn-google(type="submit", tabindex=tabindex++)
-            span.btn-label.pull-left: i.fa.fa-google
+            span.btn-label.pull-left: i.fa.fa-fw.fa-google
             span= t('signin.login-with-google')
   #signup-message.hide
     h1 Welcome
