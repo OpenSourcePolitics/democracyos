@@ -1,27 +1,540 @@
 [
   {
-      "name" : "loc1",
+      "name" : "section-1er-arrondissement",
       "value" : {
           "label" : {
-              "default" : "Koryou High School"
+              "default" : "Section 1er arrondissement"
           }
       },
       "type" : "location"
   },
   {
-      "name" : "loc2",
+      "name" : "section-2eme-arrondissement",
       "value" : {
           "label" : {
-              "default" : "Ryōzanpaku"
+              "default" : "Section 2ème arrondissement"
           }
       },
       "type" : "location"
   },
   {
-      "name" : "loc3",
+      "name" : "section-3eme-arrondissement-flora-tristan",
       "value" : {
           "label" : {
-              "default" : "Yami"
+              "default" : "Section 3ème arrondissement Flora Tristan"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-4eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Section 4ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-5eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Section 5ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-6eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Section 6ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-7eme-arrondissement-gilles-martinet",
+      "value" : {
+          "label" : {
+              "default" : "Section 7ème arrondissement Gilles Martinet"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-8eme-arrondissement-p.-mendes-france",
+      "value" : {
+          "label" : {
+              "default" : "Section 8ème arrondissement P. Mendès-France"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-9eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Section 9ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-9eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : ""
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-10eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Section 10ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-11eme-arrondissement-leon-blum",
+      "value" : {
+          "label" : {
+              "default" : "Section 11ème arrondissement Léon Blum"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-12eme-arrondissement-philippe-farine",
+      "value" : {
+          "label" : {
+              "default" : "Section 12ème arrondissement Philippe Farine"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-13eme-arrondissement-ouest-lucie-aubrac",
+      "value" : {
+          "label" : {
+              "default" : "Section 13ème arrondissement Ouest - Lucie Aubrac"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-13eme-arrondissement-est-pierre-mauroy",
+      "value" : {
+          "label" : {
+              "default" : "Section 13ème arrondissement Est - Pierre Mauroy"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-14eme-arrondissement-petit-montrouge",
+      "value" : {
+          "label" : {
+              "default" : "Section 14ème arrondissement Petit Montrouge"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-14eme-arrondissement-p.-beregovoy",
+      "value" : {
+          "label" : {
+              "default" : "Section 14ème arrondissement P. Beregovoy"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-15eme-arrondissement-convention",
+      "value" : {
+          "label" : {
+              "default" : "Section 15ème arrondissement Convention"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-15eme-arrondissement-francois-mitterrand",
+      "value" : {
+          "label" : {
+              "default" : "Section 15ème arrondissement François Mitterrand"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-15eme-arrondissement-javel-grenelle",
+      "value" : {
+          "label" : {
+              "default" : "Section 15ème arrondissement Javel-Grenelle"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-16eme-arrondissement-pierre-brossolette",
+      "value" : {
+          "label" : {
+              "default" : "Section 16ème arrondissement Pierre Brossolette"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-17eme-arrondissement-daniel-serus",
+      "value" : {
+          "label" : {
+              "default" : "Section 17ème arrondissement Daniel Serus"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-18eme-arrondissement-chapelle-goutte-dor",
+      "value" : {
+          "label" : {
+              "default" : "Section 18ème arrondissement chapelle Goutte d'Or"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-18eme-arrondissement-claude-estier",
+      "value" : {
+          "label" : {
+              "default" : "Section 18ème arrondissement Claude Estier"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-18eme-arrondissement-j-b.-clement",
+      "value" : {
+          "label" : {
+              "default" : "Section 18ème arrondissement J-B. Clément"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-19eme-arrondissement-jean-jaures",
+      "value" : {
+          "label" : {
+              "default" : "Section 19ème arrondissement Jean Jaurès"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-20eme-arrondissement-commune-de-paris",
+      "value" : {
+          "label" : {
+              "default" : "Section 20ème arrondissement Commune de Paris"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-air-france",
+      "value" : {
+          "label" : {
+              "default" : "Section Air-France"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-ministere-agriculture",
+      "value" : {
+          "label" : {
+              "default" : "Section Ministère Agriculture"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-ministere-des-finances-bercy",
+      "value" : {
+          "label" : {
+              "default" : "Section Ministère des Finances Bercy"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-ministere-education-nationale",
+      "value" : {
+          "label" : {
+              "default" : "Section Ministère Education Nationale"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-ministere-interieur",
+      "value" : {
+          "label" : {
+              "default" : "Section Ministère Intérieur"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-poste-et-telecom-paris",
+      "value" : {
+          "label" : {
+              "default" : "Section Poste et Télécom Paris"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-senat",
+      "value" : {
+          "label" : {
+              "default" : "Section Sénat"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-services-publics",
+      "value" : {
+          "label" : {
+              "default" : "Section Services Publics"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-culture",
+      "value" : {
+          "label" : {
+              "default" : "Section Culture"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-temps-reels-la-section-numerique-du-ps",
+      "value" : {
+          "label" : {
+              "default" : "Section Temps Réels - la section numérique du PS"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-ens-ulm-jaures",
+      "value" : {
+          "label" : {
+              "default" : "Section ENS-ULM Jaurès"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-sciences-po-jean-zay",
+      "value" : {
+          "label" : {
+              "default" : "Section Sciences-Po - Jean Zay"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "section-sorbonne",
+      "value" : {
+          "label" : {
+              "default" : "Section Sorbonne"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-1er-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 1er arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-2eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 2ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-3eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 3ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-4eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 4ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-5eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 5ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-6eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 6ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-7eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 7ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-8eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 8ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-9eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 9ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-10eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 10ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-11eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 11ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-12eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 12ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-13eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 13ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-14eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 14ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-15eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 15ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-16eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 16ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-17eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 17ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-18eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 18ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-19eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 19ème arrondissement"
+          }
+      },
+      "type" : "location"
+  },
+  {
+      "name" : "non-adherent-paris-20eme-arrondissement",
+      "value" : {
+          "label" : {
+              "default" : "Non adhérents - Paris 20ème arrondissement"
           }
       },
       "type" : "location"
