@@ -5,7 +5,7 @@
   a.home(href=config.homeLink || '#{config.subPath}/')
     i.fa.fa-home.header-font-color
   h1#logo
-    a(href=config.organizationUrl)
+    a(href=config.homeLink || '#{config.subPath}/')
       - var mobileLogo = !!config.logoMobile
       - var classes = mobileLogo ? 'hidden-xs' : ''
       - if (config.logo)
@@ -27,3 +27,5 @@
     a(href=signup, style=style).login.pull-right.anonymous-user
       i.fa.fa-user
       span= t('header.signup')
+    a(href=config.organizationUrl, style=style).login.pull-right
+      span=config.organizationName
